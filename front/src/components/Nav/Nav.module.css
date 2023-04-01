@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+.info{
+    font-family: 'Silkscreen';
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding: 15px 30px;
+    color: green;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+    
+}
+.info:hover{
+    background: #a945c7;
+    box-shadow: 0 0 15px #a945c7, 0 0 35px #a945c7, 0 0 70px #a945c7;
+}

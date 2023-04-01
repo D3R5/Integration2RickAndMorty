@@ -1,0 +1,18 @@
+.searchInput {
+    border: 0px;
+    border-radius: 15px 0px 0px 15px;
+    background-color: #ad4b4b;
+    height: 2em;
+}
+
+.searchButton {
+    border: 0px;
+    border-radius: 0px 15px 15px 0px;
+    background-color:#ad4b4b;
+    height: 2em;
+    
+}
+
+.bar {
+    width: 100%; /*15%*/
+} 
